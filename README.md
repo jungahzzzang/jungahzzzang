@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jungahzzzang/jungahzzzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,12 +55,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
 </p>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
+<!-- <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/jungahzzzang">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungahzzzang&layout=compact&show_icons=${true}&show_owner=${true}&hide_title=${true}&theme=${nord}" />
   </a>
-</p>
+</p> -->
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center"
   <a href="https://github.com/jungahzzzang">
