@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center"><b>🌈 My Blog 🌈</b></h3>
-<div align=center>
+<p align="center">
 <a href="https://mycodearchive.tistory.com/">
-<img src="https://github-readme-tistory-card.vercel.app/api/badge?name=mycodearchive"/>
-  </a>
-</div> 
+<img src="https://github-readme-tistory-card.vercel.app/api/badge?name=codearchive"/>
+</a>
+</p>
 
 <h3 align="center"><b>🔌 Tech Stack 🔌</b></h3>
 </br>
