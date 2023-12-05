@@ -44,9 +44,9 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungahzzzang&layout=compact&show_icons=${true}&show_owner=${true}&hide_title=${true}&theme=${nord}" />
   </a>
 </p> -->
-<h3 align="center">💡 My Git Stats 💡</h3>
+<!-- <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center"
   <a href="https://github.com/jungahzzzang">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jungahzzzang&hide_title=${true}&show_icons=${true}&include_all_commits=${false}&theme=${nord}" />
   </a>
-</p>
+</p> -->
